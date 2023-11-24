@@ -2,8 +2,8 @@
   "projects": [
     {
       "id": 5,
-      "title": "project title 3",
-      "detail": "project detail 3",
+      "title": "snake game",
+      "detail": "java fx game",
       "complete": true
     },
     {
@@ -11,6 +11,12 @@
       "detail": "create the planner folder for your projects",
       "complete": true,
       "id": 7
+    },
+    {
+      "title": "mario game",
+      "detail": "mario using javafx",
+      "complete": false,
+      "id": 8
     }
   ]
 }
