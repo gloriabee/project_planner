@@ -2,14 +2,14 @@
   "projects": [
     {
       "id": 5,
-      "title": "snake game",
+      "title": "ba sai game",
       "detail": "java fx game",
-      "complete": true
+      "complete": false
     },
     {
       "title": "project planner",
       "detail": "create the planner folder for your projects",
-      "complete": true,
+      "complete": false,
       "id": 7
     },
     {
